@@ -10,4 +10,4 @@
 
 <h4>Screenshot<h4>
 <img src="screenshot.png" width="250px"><hr>
-<h3>Thank You for checking out this template.</h3>
+<h3>Happy Coding🤖🤖🤖🤖 🤖</h3> 
