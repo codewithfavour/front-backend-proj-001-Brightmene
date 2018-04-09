@@ -12,5 +12,5 @@
 <h4>This is the desktop view<h4>
 <img src="http://shrinathnayak.in/portfolio.png"><hr>
 <h4>This is the Mobile view<h4>
-<img src="mob.jpg" width="250px"><hr>
+<img src="screenshot.png" width="250px"><hr>
 <h3>Thank You for checking out this template.</h3>
